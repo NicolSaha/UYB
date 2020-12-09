@@ -19,5 +19,4 @@
 
 ### 👩🏻‍💻 License
 
-This project is licensed <br/>
 © 2020 All rights reserved [Nicol Saha](https://github.com/NicolSaha)
