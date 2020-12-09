@@ -14,7 +14,7 @@
 ## Mockups
 
 - [All Mockups](https://github.com/NicolSaha/UYB/tree/main/mockups)
-- [Low Fidelity](https://github.com/NicolSaha/UYB/tree/main/mockups/UYB/mockups/LoFi-Web+Mob.pdf)
+- [Low Fidelity](https://github.com/NicolSaha/UYB/blob/main/mockups/LoFi-Web%2BMob.pdf)
 
 ### 👩🏻‍💻 License
 
