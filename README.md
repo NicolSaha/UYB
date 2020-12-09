@@ -12,7 +12,7 @@
 - [Markdown](https://www.markdownguide.org/)
 - [Adobe XD](https://www.adobe.com/products/xd.html)
 
-## Mockups
+## 💭 Mockups
 
 - [All Mockups](https://github.com/NicolSaha/UYB/tree/main/mockups)
 - [Low Fidelity](https://github.com/NicolSaha/UYB/blob/main/mockups/LoFi-Web%2BMob.pdf)
