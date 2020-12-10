@@ -12,6 +12,10 @@
 - [Markdown](https://www.markdownguide.org/)
 - [Adobe XD](https://www.adobe.com/products/xd.html)
 
+## 💭 User Stories
+
+- [Persona](https://github.com/NicolSaha/UYB/tree/main/persona/Persona.png)
+
 ## 💭 Mockups
 
 - [All Mockups](https://github.com/NicolSaha/UYB/tree/main/mockups)
